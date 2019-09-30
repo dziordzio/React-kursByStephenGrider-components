@@ -1,0 +1,9 @@
+30.09.2019
+Ilość popełnionych błędów:	    71
+Ilość znaków:	    1908
+Ilość wpisywanych znaków na minutę:	    179
+Czas pisania:	    7.12 min
+Czas doliczony za błędy:	    3.55 min
+-------------------------------------------------
+
+
