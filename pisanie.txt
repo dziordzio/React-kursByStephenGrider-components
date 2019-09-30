@@ -5,5 +5,6 @@ Ilość wpisywanych znaków na minutę:	    179
 Czas pisania:	    7.12 min
 Czas doliczony za błędy:	    3.55 min
 -------------------------------------------------
+https://www.youtube.com/watch?v=GIU8ekYndKw       ReactJS Basics - #6 Passing Data with Props Academind
 
 
