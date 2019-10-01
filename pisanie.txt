@@ -10,4 +10,23 @@ https://www.youtube.com/watch?v=GIU8ekYndKw       ReactJS Basics - #6 Passing Da
 https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8
 https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d
 
+------------------------------------------------------------------------------
+https://pl.reactjs.org/docs/components-and-props.html
+
+        function Welcome(props) {
+          return <h1>Cześć, {props.name}</h1>;
+        }
+        
+        class Welcome extends React.Component {
+          render() {
+            return <h1>Cześć, {this.props.name}</h1>;
+          }
+        }
+        Obydwa powyższe komponenty są równoważne z punktu widzenia Reacta.
+
+------------------------------------------------------------------------------
+https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108
+If you take a look at the transpiled code by Babel you will also see some major differences: .....
+------------------------------------------------------------------------------
+
 
