@@ -28,5 +28,7 @@ https://pl.reactjs.org/docs/components-and-props.html
 https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108
 If you take a look at the transpiled code by Babel you will also see some major differences: .....
 ------------------------------------------------------------------------------
-
+Enable Emmet support for JSX in Visual Studio Code | React :
+https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c
+------------------------------------------------------------------------------
 
