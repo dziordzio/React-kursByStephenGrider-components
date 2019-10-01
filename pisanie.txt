@@ -7,4 +7,7 @@ Czas doliczony za błędy:	    3.55 min
 -------------------------------------------------
 https://www.youtube.com/watch?v=GIU8ekYndKw       ReactJS Basics - #6 Passing Data with Props Academind
 
+https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8
+https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d
+
 
