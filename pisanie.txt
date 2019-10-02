@@ -33,4 +33,13 @@ If you take a look at the transpiled code by Babel you will also see some major 
 Enable Emmet support for JSX in Visual Studio Code | React :
 https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c
 ------------------------------------------------------------------------------
+Sławomir Sobótka - C4 - lekkie podejście do dokumentowania architektury
+Podczas prezentacji pokażę:
+- jakie są poziomy architektury, 
+- jak je wizualizować w podejściu C4,
+- po co i jakie wprowadzamy ograniczenia na każdym z poziomów,
+- dlaczego decoupling przy pomocy zdarzeń, rest, microservices, dto nie działa jeżeli masz coupling semantyczny
+
+Będę lansował nowy buzzword: Connascence
+------------------------------------------------------------------------------
 
