@@ -1,10 +1,12 @@
-30.09.2019
-Ilość popełnionych błędów:	    71
-Ilość znaków:	    1908
-Ilość wpisywanych znaków na minutę:	    179
-Czas pisania:	    7.12 min
-Czas doliczony za błędy:	    3.55 min
--------------------------------------------------
+02.10.2019
+błędy/znaki 3.47%   ocena: 3
+ 
+Ilość popełnionych błędów:	    64
+Ilość znaków:	    1842
+Ilość wpisywanych znaków na minutę:	    185
+Czas pisania:	    6.8 min
+Czas doliczony za błędy:	    3.2 min
+
 https://www.youtube.com/watch?v=GIU8ekYndKw       ReactJS Basics - #6 Passing Data with Props Academind
 
 https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8
