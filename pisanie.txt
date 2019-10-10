@@ -1,20 +1,32 @@
-04.10.2019
+10.10.2019
 
-3.2%   ocena: 3
+błędy/znaki 4.26%  ocena: 3
  
-Ilość popełnionych błędów:	    57
-Ilość znaków:	    1784
-Ilość wpisywanych znaków na minutę:	    186
-Czas pisania:	    6.77 min
-Czas doliczony za błędy:	    2.85 min
+Ilość popełnionych błędów:	    37
+Ilość znaków:	    868
+Ilość wpisywanych znaków na minutę:	    183
+Czas pisania:	    2.9 min
+Czas doliczony za błędy:	    1.85 min
 
-2.69% ocena: 3
+
+błędy/znaki 2.65%  ocena: +3
  
-Ilość popełnionych błędów:	    48
-Ilość znaków:	    1784
-Ilość wpisywanych znaków na minutę:	    199
-Czas pisania:	    6.57 min
-Czas doliczony za błędy:	    2.4 min
+Ilość popełnionych błędów:	    23
+Ilość znaków:	    868
+Ilość wpisywanych znaków na minutę:	    218
+Czas pisania:	    2.84 min
+Czas doliczony za błędy:	    1.15 min
+
+
+błędy/znaki 2.42%  ocena: 4
+ 
+Ilość popełnionych błędów:	    21
+Ilość znaków:	    868
+Ilość wpisywanych znaków na minutę:	    231
+Czas pisania:	    2.72 min
+Czas doliczony za błędy:	    1.05 min
+
+
 
 
 
